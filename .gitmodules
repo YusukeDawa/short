@@ -1,0 +1,3 @@
+[submodule "aula.070.mailgun"]
+	path = aula.070.mailgun
+	url = https://github.com/YusukeDawa/short.git
